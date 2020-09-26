@@ -1,0 +1,9 @@
+name: '${project.artifactId}'
+main: '${project.groupId}.Spawner'
+version: '${project.version}'
+author: 'Braayy'
+
+commands:
+  spawner:
+    description: 'Get a typed mob spawn'
+    permission: 'bspawner.spawner'
